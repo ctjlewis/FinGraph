@@ -3,7 +3,8 @@
 A simple abstraction layer on top of Matplotlib that allows for easily
 displaying financial graphics.
 
-_Please read this README on GitHub to ensure the SVG examples display._
+_Please read this README [on GitHub](https://github.com/ctjlewis/FinGraph) to
+ensure the SVGs display correctly._
 
 ## Examples
 
