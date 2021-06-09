@@ -3,11 +3,13 @@
 A simple abstraction layer on top of Matplotlib that allows for easily
 displaying financial graphics.
 
-# Examples
+_Please read this README on GitHub to ensure the SVG examples display._
+
+## Examples
 
 See `Example.ipynb`.
 
-## GME and AMC returns
+### GME and AMC returns
 
 #### Code
 ```python
