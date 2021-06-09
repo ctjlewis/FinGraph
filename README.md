@@ -8,7 +8,7 @@ ensure the SVGs display correctly._
 
 ## Examples
 
-See `Example.ipynb`.
+See [`Example.ipynb`](Example.ipynb).
 
 ### GME and AMC returns
 
