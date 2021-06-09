@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
      name='FinGraph',  
-     version='0.0.2',
+     version='0.0.3',
     #  scripts=['dokr'] ,
      author="C. Lewis",
      author_email="ctj.lewis@icloud.com",

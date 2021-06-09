@@ -1,0 +1,14 @@
+{
+  "name": "FinGraph",
+  "version": "0.0.0",
+  "description": "A simple abstraction layer on top of Matplotlib that allows for easily displaying financial graphics.",
+  "repository": "git@github.com:ctjlewis/FinGraph.git",
+  "author": "C. Lewis <ctj.lewis@icloud.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "clean": "rm -rf build/ dist/ FinGraph.egg-info/",
+    "build": "yarn clean && python3 setup.py sdist bdist_wheel",
+    "push": "yarn build && python3 -m twine upload dist/*"
+  }
+}
