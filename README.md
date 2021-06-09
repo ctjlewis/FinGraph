@@ -6,6 +6,12 @@ displaying financial graphics.
 _Please read this README [on GitHub](https://github.com/ctjlewis/FinGraph) to
 ensure the SVGs display correctly._
 
+## Installation
+
+```shell
+python -m pip install FinGraph
+```
+
 ## Examples
 
 See [`Example.ipynb`](Example.ipynb).
