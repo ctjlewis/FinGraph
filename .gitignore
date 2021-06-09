@@ -1,0 +1,10 @@
+__pycache__
+.ipynb_checkpoints
+
+# PyPi stuff
+build
+dist
+FinGraph.egg-info
+
+# ignore stock data
+FinGraphData/stocks
